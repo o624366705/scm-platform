@@ -24,6 +24,11 @@
 			<artifactId>scm-platform-common</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
+        <dependency>
+            <groupId>com.scm</groupId>
+            <artifactId>scm-platform-dubbo-provider</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
 	</dependencies>
 
 

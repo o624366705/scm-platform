@@ -30,6 +30,26 @@
 			<artifactId>scm-platform-common</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
+        <dependency>
+            <groupId>com.scm</groupId>
+            <artifactId>scm-platform-util</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>com.scm</groupId>
+            <artifactId>scm-platform-dao</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>com.scm</groupId>
+            <artifactId>scm-platform-domain</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>com.scm</groupId>
+            <artifactId>scm-platform-dubbo-consumer</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
 	</dependencies>
 
 

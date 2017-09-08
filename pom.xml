@@ -11,13 +11,6 @@
 	<name>scm-platform</name>
 	<description>Demo project for Spring Boot</description>
 
-	<parent>
-		<groupId>org.springframework.boot</groupId>
-		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>1.5.1.RELEASE</version>
-		<relativePath/> <!-- lookup parent from repository -->
-	</parent>
-
     <modules>
 		<!--服务提供-->
         <module>scm-platform-dubbo-provider</module>
