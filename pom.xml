@@ -14,6 +14,7 @@
     <modules>
 		<!--服务提供-->
         <module>scm-platform-dubbo-provider</module>
+        <module>scm-platform-dubbo-api</module>
 		<!--服务消费-->
         <module>scm-platform-dubbo-consumer</module>
 		<!--后台-->
